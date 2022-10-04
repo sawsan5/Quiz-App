@@ -1,0 +1,82 @@
+[
+    {
+        "title":"why we use <br> element",
+        "answer_1":"to make text bold",
+        "answer_2":"to make text italic",
+        "answer_3":"to add breaklean",
+        "answer_4":"to create horizontal line",
+        "right_answer":"to add breaklean"
+    },
+
+    {
+        "title":"is <img> element has attribute href",
+        "answer_1":"yes",
+        "answer_2":"no its for anchor tag <a>",
+        "answer_3":"all elemrnts has this attribute",
+        "answer_4":"answer 1 and 3 id right",
+        "right_answer":"no its for anchor tag <a>"
+    },
+
+    {
+        "title":"how can make element text bold",
+        "answer_1":"putting it inside <b> tag",
+        "answer_2":"putting it inside <storing> tag",
+        "answer_3":"customizing it with font-weight tag",
+        "answer_4":"all answer is right",
+        "right_answer":"all answer is right"
+    },
+
+    {
+        "title":"why we use <br> element",
+        "answer_1":"to make text bold",
+        "answer_2":"to make text italic",
+        "answer_3":"to add breaklean",
+        "answer_4":"all solutions is wrong",
+        "right_answer":"all solutions is wrong"
+    },
+
+    {
+        "title":"how can we include external page inside our HTML page",
+        "answer_1":"by using include in HTML",
+        "answer_2":"by using load in HTML",
+        "answer_3":"by using iframe tag",
+        "answer_4":"all solutions is wrong",
+        "right_answer":"by using iframe tag"
+    },
+
+    {
+        "title":"what is the tag that not exists in HTML",
+        "answer_1":"<object>",
+        "answer_2":"<basefont>",
+        "answer_3":"<abbr>",
+        "answer_4":"all tag is exists in HTML",
+        "right_answer":"all tag is exists in HTML"
+    },
+
+    {
+        "title":"how we specify document type of HTML5 page",
+        "answer_1":"<DOCTYPE html>",
+        "answer_2":"<DOCTYPE html5>",
+        "answer_3":"<!DOCTYPE html>",
+        "answer_4":"<!DOCTYPE html5>",
+        "right_answer":"<!DOCTYPE html>"
+    },
+
+    {
+        "title":"what is the element thats not exists in HTML5 semantics",
+        "answer_1":"<article>",
+        "answer_2":"<section>",
+        "answer_3":"<blockquote>",
+        "answer_4":"<aside>",
+        "right_answer":"<blockquote>"
+    },
+
+    {
+        "title":"in HTML can we use this way to add attributes",
+        "answer_1":"<div class='class-name'>",
+        "answer_2":"<div class=class-name>",
+        "answer_3":"<div class=\"class-name\">",
+        "answer_4":"all is right",
+        "right_answer":"all is right"
+    }
+]
